@@ -1,2 +1,2 @@
 # ExampleSchoolWebpage
-am using this to practice using bootstrap
+I am using this to practice using bootstrap
